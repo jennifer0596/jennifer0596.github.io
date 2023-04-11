@@ -8,7 +8,7 @@
              </head>
 <body>
       
-       <img src="https://ja-roy.com/wp-content/uploads/2020/12/ladybug-1.jpg" alt="Ladybug">
+       <img src="https://ja-roy.com/wp-content/uploads/2020/12/ladybug-1.jpg">
 
                      Hello, World! dgdwugqd
       
