@@ -9,5 +9,7 @@
 <body>
 
                      Hello, World!
+      <img src="https://ja-roy.com/wp-content/uploads/2020/12/ladybug-1.jpg" alt="Ladybug">
+      
              </body>
 </html>
