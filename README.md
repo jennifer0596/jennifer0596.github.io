@@ -8,6 +8,8 @@
              </head>
 <body>
 
+      <img src="animals_hero_ladybug.jpg" alt="Alt text" title="Optional title">
+      
                      Hello, World!
       
              </body>
